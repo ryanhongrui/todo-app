@@ -24,8 +24,9 @@ This is a simple TODO list application built with Angular (frontend) and .NET 8 
 ### 1. Clone the repository
 
 ```bash
-git clone httpsgithub.comryanhongruitodo-app.git
+git clone https://github.comryanhongruitodo-app.git
 cd todo-app
+```
 
 ### 2. Run the backend (.NET API)
 
@@ -33,7 +34,7 @@ cd todo-app
 cd backend
 dotnet restore
 dotnet run
-
+```
 This will start the backend server at:http://localhost:5000
 
 ### 3. Run the frontend (Angular)
@@ -42,8 +43,8 @@ This will start the backend server at:http://localhost:5000
 cd frontend
 npm install
 ng serve
-
+```
 Then visit:http://localhost:4200
 
-
+---
 
